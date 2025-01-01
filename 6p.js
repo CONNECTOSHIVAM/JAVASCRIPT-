@@ -92,11 +92,11 @@
 
 //Question 8:- Find the factorial of n number.
 
-let factNum = 7;
-let factorial = 1;
+// let factNum = 7;
+// let factorial = 1;
 
-for (let i = 1; i <= factNum; i++) {
-    factorial *= i;
-}
-console.log(`Factorial is entered number:- ${factorial}`);
+// for (let i = 1; i <= factNum; i++) {
+//     factorial *= i;
+// }
+// console.log(`Factorial is entered number:- ${factorial}`);
 
